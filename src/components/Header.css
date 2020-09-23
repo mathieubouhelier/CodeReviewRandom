@@ -1,0 +1,20 @@
+nav {
+  background-color: rgb(62, 64, 66);
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  min-height: 10vh;
+  align-items: center;
+}
+
+nav a {
+  color: white;
+  padding: 2em;
+}
+.nav-links {
+  /* width: 10%; */
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
